@@ -7,9 +7,9 @@ Genetic Variants Selection in Imaging Genetics`.
 
 ## Description
 
-The folder `simulation` contains the main script and functions that are needed to implement simulation studies. The file `Alternating_Minimization.py` includes the alternating minimization algorithm and function for hyper-parameter selection via modified BIC criterion. The file `Joint_Generation.py` includes the functions for simulation data generation. The true signal shapes used in the paper are saved as `1-block.npy`, `3-block.npy` and `butterfly.npy` under this folder as well.
+The `simulation` directory houses the primary scripts and functions required for conducting simulation studies. The `Alternating_Minimization.py` file encompasses the alternating minimization algorithm and a function for hyper-parameter selection using a modified BIC criterion. The `Joint_Generation.py` file contains functions for generating simulation data. The true signal shapes utilized in the associated paper are stored as `1-block.npy`, `3-block.npy`, and `butterfly.npy` within this directory.
 
-The folder `example` contains the python script that go through the data generation, hyper-parameter tuning, model fitting and model evaluation.
+The `example` directory includes a Python script that guides you through the process of data generation, hyper-parameter tuning, model fitting, and model evaluation.
 
 
 
