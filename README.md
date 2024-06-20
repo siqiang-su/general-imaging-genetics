@@ -1,7 +1,8 @@
 # A General framework of Brain Region Detection and Genetic Variants Selection in Imaging Genetics
 This repository includes the Python code for the paper `A General framework of Brain Region Detection and
 Genetic Variants Selection in Imaging Genetics`.
-
+## Citations
+Su, S. *, Li, Z.*, Feng, L.† and Li, T. (2024+). "A General Framework of Brain Region Detection and Genetic Variants Selection in Imaging Genetics"
 ## Environment and usage
 - Python 3.9
 
