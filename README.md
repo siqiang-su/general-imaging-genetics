@@ -5,6 +5,12 @@ Genetic Variants Selection in Imaging Genetics`.
 Su, S. *, Li, Z.*, Feng, L.† and Li, T. (2024+). "A General Framework of Brain Region Detection and Genetic Variants Selection in Imaging Genetics"
 ## Environment and usage
 - Python 3.9
+- 
+To install it,
+```
+pip install -i https://test.pypi.org/simple/ GeneralCCA==0.0.1
+```
+The detailed usage refer to the **Examples.ipynb**
 
 ## Description
 
