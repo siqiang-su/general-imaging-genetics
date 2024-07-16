@@ -10,7 +10,7 @@ To install it,
 ```
 pip install -i https://test.pypi.org/simple/ GeneralCCA==0.0.1
 ```
-The detailed usage refer to the **Examples.ipynb**
+The detailed usage refer to the **example.ipynb**
 
 ## Description
 
